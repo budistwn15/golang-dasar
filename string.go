@@ -3,12 +3,12 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Budi")
-	fmt.Println("Budi Setiawan")
+	fmt.Println("Spy")
+	fmt.Println("Spy x Family")
 
 	// menghitung karakter string
-	fmt.Println(len("Budi"))
+	fmt.Println(len("Spy"))
 
 	// mengambil karakter pada posisi yang telah ditentukan
-	fmt.Println("Budi"[0])
+	fmt.Println("Spy"[0])
 }
